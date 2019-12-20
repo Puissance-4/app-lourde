@@ -1,0 +1,19 @@
+C:\Users\Hdebec\source\repos\Application Lourde\Application Lourde\bin\Debug\Application Lourde.exe.config
+C:\Users\Hdebec\source\repos\Application Lourde\Application Lourde\bin\Debug\Application Lourde.exe
+C:\Users\Hdebec\source\repos\Application Lourde\Application Lourde\bin\Debug\Application Lourde.pdb
+C:\Users\Hdebec\source\repos\Application Lourde\Application Lourde\bin\Debug\Devart.Data.dll
+C:\Users\Hdebec\source\repos\Application Lourde\Application Lourde\bin\Debug\Devart.Data.MySql.dll
+C:\Users\Hdebec\source\repos\Application Lourde\Application Lourde\bin\Debug\Devart.Data.xml
+C:\Users\Hdebec\source\repos\Application Lourde\Application Lourde\bin\Debug\Devart.Data.MySql.xml
+C:\Users\Hdebec\source\repos\Application Lourde\Application Lourde\obj\Debug\Application Lourde.csprojAssemblyReference.cache
+C:\Users\Hdebec\source\repos\Application Lourde\Application Lourde\obj\Debug\Application_Lourde.Properties.Resources.resources
+C:\Users\Hdebec\source\repos\Application Lourde\Application Lourde\obj\Debug\Application Lourde.csproj.GenerateResource.cache
+C:\Users\Hdebec\source\repos\Application Lourde\Application Lourde\obj\Debug\Application Lourde.csproj.CoreCompileInputs.cache
+C:\Users\Hdebec\source\repos\Application Lourde\Application Lourde\obj\Debug\Application Lourde.csproj.CopyComplete
+C:\Users\Hdebec\source\repos\Application Lourde\Application Lourde\obj\Debug\Application Lourde.exe
+C:\Users\Hdebec\source\repos\Application Lourde\Application Lourde\obj\Debug\Application Lourde.pdb
+C:\Users\Hdebec\source\repos\Application Lourde\Application Lourde\obj\Debug\Application_Lourde.Login.resources
+C:\Users\Hdebec\source\repos\Application Lourde\Application Lourde\obj\Debug\Application_Lourde.FormFiche.resources
+C:\Users\Hdebec\source\repos\Application Lourde\Application Lourde\obj\Debug\Application_Lourde.ChangerFraisF.resources
+C:\Users\Hdebec\source\repos\Application Lourde\Application Lourde\obj\Debug\Application_Lourde.Menu.resources
+C:\Users\Hdebec\source\repos\Application Lourde\Application Lourde\obj\Debug\Application_Lourde.DetailFiche.resources
